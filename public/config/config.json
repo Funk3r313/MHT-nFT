@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE8610d2457e71a9022D17758D0379Cf24Eb86040",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xE8610d2457e71a9022D17758D0379Cf24Eb86040",
+  "NETWORK": {
+    "NAME": "Rinkeby TestNet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Moon Hunters",
+  "SYMBOL": "MHT",
+  "MAX_SUPPLY": 11000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/moon-hunters-nft/",
+  "SHOW_BACKGROUND": true
+}
